@@ -45,7 +45,7 @@ const OpeningScene = ({ onTransition }: OpeningSceneProps) => {
       <div className="text-center px-6 mb-16 z-10">
         <h1 className="font-display text-2xl md:text-4xl lg:text-5xl text-foreground tracking-wide">
           <LetterByLetter
-            text="A New Year Is About To Begin Shafaq"
+            text="The New Year Has Begun, Shafaq"
             delay={500}
             letterDelay={80}
           />
